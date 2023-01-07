@@ -1,18 +1,5 @@
 # School_of_AI_assignment2.5
 output of epoch 9 last batch output:
-epoch: 9 total_correct1: 5468 loss1: 1377.049481868744 total_correct2: 900 loss2: 1757.830897808075
-torch.Size([100, 400])
-torch.Size([100, 20])
-torch.Size([100, 420])
-loss1: 2.3074071407318115
-loss2: 2.9444403648376465
-
-epoch: 9 total_correct1: 5477 loss1: 1379.3568890094757 total_correct2: 902 loss2: 1760.7753381729126
-torch.Size([100, 400])
-torch.Size([100, 20])
-torch.Size([100, 420])
-loss1: 2.307189702987671
-loss2: 2.9444403648376465
 
 epoch: 9 total_correct1: 5484 loss1: 1381.6640787124634 total_correct2: 904 loss2: 1763.7197785377502
 torch.Size([100, 400])
