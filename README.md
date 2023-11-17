@@ -1,5 +1,6 @@
 # School_of_AI_assignment2.5
 
+
 epoch: 0 total_correct1: 39241 loss1: 1083.586814403534 total_correct2: 2731 loss2: 1765.8379554748535
 
 epoch: 1 total_correct1: 40916 loss1: 1067.485326051712 total_correct2: 3177 loss2: 1765.8379554748535
